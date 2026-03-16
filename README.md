@@ -1,4 +1,4 @@
-# 🎯 ResumeRadar — AI-Powered Job Recommender System
+# 🎯ResumeRadar — AI-Powered Job Recommender System
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 [![Groq](https://img.shields.io/badge/Groq-LLaMA%203-00A67E?style=flat-square\&logo=groq\&logoColor=white)](https://groq.com)
 [![RapidAPI](https://img.shields.io/badge/JSearch-RapidAPI-0055DA?style=flat-square\&logo=rapidapi\&logoColor=white)](https://rapidapi.com)
 
-* An end-to-end Generative AI application that analyzes resumes, detects skill gaps, generates a career roadmap, and recommends real-time job opportunities.*
+* An end-to-end Generative AI application that analyzes resumes, detects skill gaps, generates a career roadmap, and recommends real-time job opportunities. *
 
 </div>
 
@@ -21,12 +21,12 @@ Try the deployed application here:
 
 🚀 https://resumeradar-ai-powered-job-recommender-system-xanbqr3bwbl266r8.streamlit.app/
 
-Upload your resume and instantly get:
+## Upload your resume and instantly get:
 
-• AI Resume Summary
-• Skill Gap Analysis
-• Career Roadmap
-• Real-time Job Recommendations
+## • AI Resume Summary
+## • Skill Gap Analysis
+## • Career Roadmap
+## • Real-time Job Recommendations
 
 ---
 
@@ -43,7 +43,7 @@ Upload your resume and instantly get:
 
 # 📌 Problem Statement
 
-Job seekers — especially freshers — face three major challenges:
+## Job seekers — especially freshers — face three major challenges:
 
 1️⃣ **Skill Blindspot**
 They don't know which skills they lack for their desired job role.
