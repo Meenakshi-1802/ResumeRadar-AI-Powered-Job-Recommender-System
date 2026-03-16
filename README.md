@@ -11,12 +11,6 @@
 
 **An end-to-end Generative AI application that analyzes resumes, detects skill gaps, generates a career roadmap, and recommends real-time job opportunities.**
 
-🚀 **Live Demo**
-https://resumeradar-ai-powered-job-recommender-system-xanbqr3bwbl266r8.streamlit.app/
-
-📂 **Repository**
-https://github.com/Meenakshi-1802/ResumeRadar----AI-Powered-Job-Recommender-System
-
 </div>
 
 ---
@@ -207,10 +201,15 @@ http://localhost:8501
 # 🔮 Future Improvements
 
 • Resume ATS score checker
+
 • Job bookmarking system
+
 • Interview preparation suggestions
+
 • Email job alerts
+
 • Multi-language resume support
+
 • Docker deployment
 
 ---
