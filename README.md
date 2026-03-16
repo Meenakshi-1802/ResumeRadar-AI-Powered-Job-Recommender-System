@@ -9,7 +9,7 @@
 [![Groq](https://img.shields.io/badge/Groq-LLaMA%203-00A67E?style=flat-square\&logo=groq\&logoColor=white)](https://groq.com)
 [![RapidAPI](https://img.shields.io/badge/JSearch-RapidAPI-0055DA?style=flat-square\&logo=rapidapi\&logoColor=white)](https://rapidapi.com)
 
-**An end-to-end Generative AI application that analyzes resumes, detects skill gaps, generates a career roadmap, and recommends real-time job opportunities.**
+* An end-to-end Generative AI application that analyzes resumes, detects skill gaps, generates a career roadmap, and recommends real-time job opportunities.*
 
 </div>
 
@@ -214,4 +214,4 @@ http://localhost:8501
 
 ---
 
-⭐ If you found this project useful, please give it a **star**.
+## ⭐ If you found this project useful, please give it a **star**.
